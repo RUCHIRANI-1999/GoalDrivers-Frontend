@@ -1,0 +1,23 @@
+.dashboard-body{
+    padding: 50px;
+    height: 100vh;
+    width: 70vw;
+}
+.form-control {
+    width: 400px;
+  }
+  .search {
+    width: 400px;
+    height: 200px;
+    margin-top: 5px;
+  }
+  .alert-heading {
+    margin: 30px;
+    width: 40px
+   
+}
+
+
+  
+
+  
